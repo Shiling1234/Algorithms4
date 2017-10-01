@@ -7,4 +7,4 @@ def gcd(p, q):
 
 
 # test example
-print(gcd(10, 5))
+print(gcd(10, 6))
